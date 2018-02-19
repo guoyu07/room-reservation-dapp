@@ -1,0 +1,5 @@
+docs/output
+node_modules/
+build/contracts/
+dist/
+build/contracts
